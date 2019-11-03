@@ -27,3 +27,7 @@ Titanic Passengers: Unsurprisingly, people in the lowest class were the least li
 
 If you want to win a duel, stay out of Stockholm: Count of Medals for Olympic Pistol Dueling by Country, 1906-1912
 ![Medal Count Pistols](https://user-images.githubusercontent.com/56807370/67865156-3850cc80-fafd-11e9-9062-0dd1c7057670.jpg)
+
+
+Tokyo Debt: OECD Countries' Debt as a % of GDP
+<iframe src="https://data.oecd.org/chart/5JyW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5JyW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
