@@ -18,6 +18,8 @@ I've seen some wonderful agencies doing great work (Peace Corps, National Park S
 # Portfolio
 Here's where my visualizations will be! 
 
+Take a look at my final project proposal here: https://dryave.github.io/Final-Project-Propsal/
+
   Assignment 3/4 can be found here: https://dryave.github.io/Assignment34/
 
 <iframe title="Are Good and Plenty just not good?" aria-label="Column Chart" id="datawrapper-chart-OAGcV" src="//datawrapper.dwcdn.net/OAGcV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
